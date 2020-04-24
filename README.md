@@ -2,6 +2,4 @@
 
 Adding a line
 
-new site
-
-Delete branch added
+Delete branch added in DEL BRANCH
